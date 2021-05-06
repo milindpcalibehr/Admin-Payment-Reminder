@@ -1,0 +1,18 @@
+05/03/2021 17:40:24 - Execution Started Successfully.
+05/03/2021 17:40:24 - Move file from shared source path Successfully.
+05/03/2021 17:40:24 - Copy file for backup Successfully.
+05/03/2021 17:40:25 - Read Input File for Due Date Successfully.
+05/03/2021 17:40:25 - Get Required Data in DT for Due Date from input file Successfully.
+05/03/2021 17:40:25 - Get Unwanted Data in DT for Due Date from input file Successfully.
+05/03/2021 17:40:25 - Get before 2 days data in DT for Due Date from input file Successfully.
+05/03/2021 17:40:25 - Sent Mail before 2 days data for Due Date Successfully.
+05/03/2021 17:40:25 - Get After 1 days data in DT for Due Date from input file Successfully.
+05/03/2021 17:40:26 - Sent Mail After 1 day data for Due Date Successfully.
+05/03/2021 17:40:26 - Read Input File for Bill Date Successfully.
+05/03/2021 17:40:26 - Get Required Data in DT for Bill Date from input file Successfully.
+05/03/2021 17:40:26 - Get Unwanted Data in DT for Bill Date from input file Successfully.
+05/03/2021 17:40:26 - Get Same days data in DT for Bill Date from input file Successfully.
+05/03/2021 17:40:26 - Sent Mail Same days data for Bill Date Successfully.
+05/03/2021 17:40:26 - Get After 2 days data in DT for Bill Date from input file Successfully.
+05/03/2021 17:40:26 - Sent Mail After 2 days data for Bill Date Successfully.
+05/03/2021 17:40:26 - Execution Completed Successfully.

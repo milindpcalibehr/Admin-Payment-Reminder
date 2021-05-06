@@ -1,0 +1,15 @@
+04/28/2021 16:59:05 - Read Input File for Due Date Successfully.
+04/28/2021 16:59:07 - Get Required Data in DT for Due Date from input file Successfully.
+04/28/2021 16:59:07 - Get Unwanted Data in DT for Due Date from input file Successfully.
+04/28/2021 16:59:07 - Get before 2 days data in DT for Due Date from input file Successfully.
+04/28/2021 16:59:08 - Sent Mail before 2 days data for Due Date Successfully.
+04/28/2021 16:59:09 - Get After 1 days data in DT for Due Date from input file Successfully.
+04/28/2021 16:59:09 - Sent Mail After 1 day data for Due Date Successfully.
+04/28/2021 16:59:10 - Read Input File for Bill Date Successfully.
+04/28/2021 16:59:10 - Get Required Data in DT for Bill Date from input file Successfully.
+04/28/2021 16:59:10 - Get Unwanted Data in DT for Bill Date from input file Successfully.
+04/28/2021 16:59:10 - Get Same days data in DT for Bill Date from input file Successfully.
+04/28/2021 16:59:11 - Sent Mail Same days data for Bill Date Successfully.
+04/28/2021 16:59:11 - Get After 2 days data in DT for Bill Date from input file Successfully.
+04/28/2021 16:59:11 - Sent Mail After 2 days data for Bill Date Successfully.
+04/28/2021 16:59:11 - Execution Completed Successfully.
