@@ -1,0 +1,17 @@
+{
+   "MIS":
+       [
+	{
+          "InputFilePath":"InputFiles\\Admin Monthly Bill Tracker.xlsx",
+          "SourceFileLocation":"InputFiles\\Files",
+          "BasePath":"E:\\RPA Bots\\Admin_Payment_Reminder_Automation\\InputFiles",
+          "MIS_ExcelSheetName":"Admin Monthly Bill Tracker.xlsx",
+          "To":"siddhesh.kadam@calibehr.com",
+          "Cc":"siddhesh.kadam@calibehr.com",
+          "DueMail_Subject":"REMINDER for Admin Monthly Tracker Due Date",
+          "BillMail_Subject":"REMINDER for Admin Monthly Tracker Bill Received Reminder Date"
+          
+        
+  	 }
+ 	]
+}
