@@ -1,0 +1,7 @@
+{
+"SourceFileName":"Admin yearly contract tracker",
+"BasePath":"",
+"sheetName":"Sheet1",
+"SourceFileLocation":"InputFiles\\Files\\",
+"mailTo":"mohit.yadav@calibehr.com;"
+}
